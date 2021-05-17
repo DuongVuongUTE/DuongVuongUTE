@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dương Vương 
-- 💖 I'm from Viet Nam
+- 💖 I'm from Việt Nam
 
 <!---
 DuongVuongUTE/DuongVuongUTE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
